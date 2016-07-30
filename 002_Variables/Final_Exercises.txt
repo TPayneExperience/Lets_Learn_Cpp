@@ -1,0 +1,23 @@
+1) Create five char, bool, int, float, AND double variables with different values.
+
+2) Test the following code and see if you can figure out what its doing:
+	unsigned int a = -1;
+	unsigned short int b = -1;
+	unsigned long int c = -1;
+	unsigned long long int d = -1;
+	// Then output each of them
+	
+3) Enter the following code:
+	int x = 1;
+	int y = x;
+	x = 2;
+	cout << y << endl;
+
+4) Create a triangle with the following code:
+	cout << "  *  \n";
+	cout << "  ***  \n";
+	cout << "  *****  \n";
+	cout << "  ***  \n";
+	cout << "  *  \n";
+
+5) Now create a Square, Diamond, an 'X' and an empty square
