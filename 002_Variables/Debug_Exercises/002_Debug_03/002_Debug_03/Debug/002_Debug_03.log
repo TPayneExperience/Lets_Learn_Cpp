@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\assets\programming\github\002_variables\debug_exercises\002_debug_03\002_debug_03\main.cpp(11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  002_Debug_03.vcxproj -> D:\Assets\Programming\GitHub\002_Variables\Debug_Exercises\002_Debug_03\Debug\002_Debug_03.exe
+  002_Debug_03.vcxproj -> D:\Assets\Programming\GitHub\002_Variables\Debug_Exercises\002_Debug_03\Debug\002_Debug_03.pdb (Partial PDB)
