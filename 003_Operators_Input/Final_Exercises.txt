@@ -1,0 +1,11 @@
+1) When would you use cin vs getline?
+
+2) Output a math operation that uses +, -, *, /, (), and %
+
+3) Create an output that uses ==, <, >, <=, >= in a single line
+
+4) Create an output that uses && and || in a single like
+
+5) Ask the user to enter three integers within a single line, then store the three entrees using 'cin'
+
+6) Ask user to input an int, then output the values one greather and one less than it by incrementing and decrementing.
