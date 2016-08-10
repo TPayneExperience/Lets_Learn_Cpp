@@ -4,7 +4,7 @@
 
 3) Create an output that uses ==, <, >, <=, >= in a single line
 
-4) Create an output that uses && and || in a single like
+4) Create an output that uses && and || in a single line
 
 5) Ask the user to enter three integers within a single line, then store the three entrees using 'cin'
 
