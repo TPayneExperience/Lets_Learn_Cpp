@@ -1,0 +1,15 @@
+1) Create an int array with min/max int values
+
+2) Create a double array with 5 double values
+
+3) Create an array of size 1, then set is value
+
+4) Create a 2d array of characters, asigning them values 'a' through 'i'
+
+5) create a int 3d array with assigned values of 1-8;
+
+6) Create a character array with your name
+
+7) Create a character array with only special characters
+
+8) Create two strings called food1, food2 with values "soup" and "salad", and swap them.

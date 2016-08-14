@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\assets\programming\github\004_arrays_chars_strings\debug_exercises\004_debug_03\004_debug_03\main.cpp(10): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+d:\assets\programming\github\004_arrays_chars_strings\debug_exercises\004_debug_03\004_debug_03\main.cpp(10): warning C4305: 'initializing': truncation from 'int' to 'char'
+d:\assets\programming\github\004_arrays_chars_strings\debug_exercises\004_debug_03\004_debug_03\main.cpp(10): warning C4309: 'initializing': truncation of constant value
+  004_Debug_03.vcxproj -> D:\Assets\Programming\GitHub\004_Arrays_Chars_Strings\Debug_Exercises\004_Debug_03\Debug\004_Debug_03.exe
+  004_Debug_03.vcxproj -> D:\Assets\Programming\GitHub\004_Arrays_Chars_Strings\Debug_Exercises\004_Debug_03\Debug\004_Debug_03.pdb (Partial PDB)
