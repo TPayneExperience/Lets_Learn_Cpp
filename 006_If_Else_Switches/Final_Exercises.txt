@@ -1,0 +1,37 @@
+
+1) Create 3 'if' statements with '1', true and false as the arguments, but do nothing
+
+2) Create 3 'if' 'else if' statements that check an int to see if it's >, == or < 0. Then output each as a statement ("5 > 0").
+
+3) Create an 'if else' statement that checks if a variable is odd/even, and output just that along with lots of other random days of the week in a block of code using {}
+
+4) Create a conditional operator that checks if a number is odd, and then outputs just that
+
+5) Create a conditional operator that checks if a number is positive, and returns "ham" or "toast" which is stored in a string variable
+
+6) Create a conditional operator that checks if one variable is greater than another, and outputs which variable was greater
+
+7) Create a switch statement that has 3 different char cases and outputs which letter it is. do not include breaks
+
+8) Repeat #7 above but use numbers, include breaks, and a 'default'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

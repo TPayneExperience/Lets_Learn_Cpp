@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\assets\programming\github\006_if_else_switches\debug_exercises\006_debug_03\006_debug_03\main.cpp(8): error C2065: 'True': undeclared identifier
+d:\assets\programming\github\006_if_else_switches\debug_exercises\006_debug_03\006_debug_03\main.cpp(9): error C2065: 'False': undeclared identifier
+d:\assets\programming\github\006_if_else_switches\debug_exercises\006_debug_03\006_debug_03\main.cpp(13): error C2446: '==': no conversion from 'const char *' to 'int'
+  d:\assets\programming\github\006_if_else_switches\debug_exercises\006_debug_03\006_debug_03\main.cpp(13): note: There is no context in which this conversion is possible
