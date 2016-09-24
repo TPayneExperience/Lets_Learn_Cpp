@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(13): error C2144: syntax error: 'int' should be preceded by ';'
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(14): error C2059: syntax error: 'const_cast'
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(15): error C2131: expression did not evaluate to a constant
+  d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(15): note: failure was caused by non-constant arguments or reference to a non-constant symbol
+  d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(15): note: see usage of 'x'
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(18): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(18): note: The initializer contains too many elements
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(19): error C2059: syntax error: 'return'
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(20): error C2059: syntax error: '}'
+d:\assets\programming\github\007_for_while_loops\debug_exercises\007_debug_01\main.cpp(20): error C2143: syntax error: missing ';' before '}'
