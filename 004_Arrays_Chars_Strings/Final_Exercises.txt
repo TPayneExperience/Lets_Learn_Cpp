@@ -2,7 +2,7 @@
 
 2) Create a double array with 5 double values
 
-3) Create an array of size 1, then set is value
+3) Create an array of size 1, then set its value
 
 4) Create a 2d array of characters, asigning them values 'a' through 'i'
 

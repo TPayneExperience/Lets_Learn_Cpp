@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\assets\programming\github\008_001_007_solutions\llcpp_005_solutions\llcpp_006_exercise_01\main.cpp(6): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\assets\programming\github\008_001_007_solutions\llcpp_005_solutions\llcpp_006_exercise_01\main.cpp(8): warning C4390: ';': empty controlled statement found; is this the intent?
+d:\assets\programming\github\008_001_007_solutions\llcpp_005_solutions\llcpp_006_exercise_01\main.cpp(10): warning C4390: ';': empty controlled statement found; is this the intent?
+  LLCPP_006_Exercise_01.vcxproj -> D:\Assets\Programming\GitHub\008_001_007_Solutions\LLCPP_005_Solutions\LLCPP_006_Exercise_01\Debug\LLCPP_006_Exercise_01.exe
+  LLCPP_006_Exercise_01.vcxproj -> D:\Assets\Programming\GitHub\008_001_007_Solutions\LLCPP_005_Solutions\LLCPP_006_Exercise_01\Debug\LLCPP_006_Exercise_01.pdb (Partial PDB)

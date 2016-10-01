@@ -13,7 +13,7 @@
 
 7) Create a switch statement that has 3 different char cases and outputs which letter it is. do not include breaks
 
-8) Repeat #7 above but use numbers, include breaks, and a 'default'
+8) Repeat #7 above but use numbers, include breaks, and add a 'default'
 
 
 

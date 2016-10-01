@@ -4,11 +4,11 @@
 
 3) Create a for loop that prints out 0-100, but only odd numbers
 
-4) Create a while loop that removes a letter from a string until there are no letters remaining
+4) Create a while loop that outputs a char array with one less character everytime it loops until it holds only '\0' within it. (edited) 
 
 5) Create a do while loop that only executes once
 
-6) Create a nested for loop within another that prints out the product of each iterator ranging from 0-10, creating a times table for 0-100 
+6) Create a nested for loop within another that prints out the product of each iterator ranging from 0-10, creating a times table for 0-100 (HINT: use 'printf("%03d ", i*j);' for output with proper spacing between each item, instead of "cout << i*j << ' ';".)
 
 
 

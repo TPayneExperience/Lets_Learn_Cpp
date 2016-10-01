@@ -1,18 +1,15 @@
-1) Create 5 different variables of different data types. Output each their values and addresses
+1) Create 5 different variables of different data types. Output each of their values and addresses
 
-2) Create 5 different variables of different data types. Create 5 different 
+2) Create 5 different variables of different data types. Create 5 different pointers to those variables. Output each value they point to and the pointers themselves.
 
-3) Create 3 different variables of the same data type. Create 3 reference variables to those types and store them in an array. Output the values in the array.
+3) Create 3 different variables of the same data type. Create 3 reference variables to the previous variables and store them in an array. Output the values in the array.
 
 4) Create a char variable and output its value using both & and * in front of it.
 
-5) Create 3 different variables of different data types and 3 pointers which point to each of those. Then output the pointers values
+5) Create a one int array. Output the value within the array using both the [0] and the * methods.
 
-6) Create a one int array. Output the value within the array using both the [0] and the * methods.
+6) Create a 5 item array. Output each of the addresses of the items by adding ints to the original array variable
 
-7) Create a 5 item array. Output each of the address of the items by adding ints to the original array variable
+7) Create a pointer that points to an array of five ints. Then output to see the current value it's pointing to (using cout and *). Then on the next line use the increment operator (++) on the pointer. Finally output it's value again.
 
-8) Create a pointer that points to an array of five ints. Then output to see the current value it's pointing to (using cout and *). Then on the next line use the increment operator (++) on the pointer. Finally output it's value again.
-
-
-- Create a pointer that points to the last item in a five int array. Output the value at its address. Then use the Decrement operator (--) to go up the array by one item. Finally, output the value at the pointers new address.
+8) Create a pointer that points to the last item in a five int array. Output the value at its address. Then use the Decrement operator (--) to go up the array by one item. Finally, output the value at the pointer's new address.

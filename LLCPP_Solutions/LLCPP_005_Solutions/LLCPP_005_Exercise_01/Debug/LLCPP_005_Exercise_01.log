@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\assets\programming\github\008_001_007_solutions\llcpp_005_solutions\llcpp_005_exercise_01\main.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  LLCPP_005_Exercise_01.vcxproj -> D:\Assets\Programming\GitHub\008_001_007_Solutions\LLCPP_005_Solutions\LLCPP_005_Exercise_01\Debug\LLCPP_005_Exercise_01.exe
+  LLCPP_005_Exercise_01.vcxproj -> D:\Assets\Programming\GitHub\008_001_007_Solutions\LLCPP_005_Solutions\LLCPP_005_Exercise_01\Debug\LLCPP_005_Exercise_01.pdb (Partial PDB)

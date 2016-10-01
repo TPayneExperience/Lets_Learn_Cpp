@@ -1,3 +1,5 @@
 1) Create a program that outputs "I'm going to be the best programmer in the world!"
+
 2) Create a program that outputs "Hello, I am ham!" on one line, then "Hello, Ham. I am Sandwich. I love you!", and finally "I love you too, Sandwich!"
+
 3) Create a program that outputs "Changing return type, fingers crossed!". Then change the return type for the main function from 'int' to 'char' and instead of "return 0;" type "return 'a'". NOTE the 'a' is surrounded by single quotes.
