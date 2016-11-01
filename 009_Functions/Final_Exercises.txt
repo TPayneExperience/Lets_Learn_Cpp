@@ -1,0 +1,26 @@
+
+1) Create a function called 'times_Ten' that takes an int as a parameter, then returns the product of it times ten. No references or pointers.
+
+2) Create a 'print' function that takes a string with default value of "ham" and simply prints out the value of the string
+
+3) Create a 'mult_Array' function that takes in: a pointer to an array, the size of the array, and a double called 'multiplier'. Create a loop within the function that multiplies every value in the array by the multiplier
+
+4) Create a 'combine_Arrays' function that takes in two pointers to arrays of the same size and a int parameter for size. Create a loop that adds thes the second array to the first and then sets the seconds values to zero.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
