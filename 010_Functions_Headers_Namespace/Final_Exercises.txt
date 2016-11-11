@@ -1,6 +1,15 @@
 
+1) Create a function that takes an array as an argument using square brackets [].
 
+2) Create a function called add_One that is declared before the main function and defined afterward. It takes in an int VALUE and returns an int value of one more than is copied in.
 
+3) Create a function called add_Two that is declared in a header file and defined in a seperate cpp file from the main.cpp file. It has a REFERENCE int parameter that adds two to it. Nothing is returned.
+
+4) Create Macros for a char, a negative int, and a negative double
+
+5) Repeat number 3 but enclose it all within a namespace called shockalockaboomdiddyboom
+
+6) Create a function called print_Sandwich, that returns nothing and does indeed print 'sandwich'. Nest that function with two namespaces named cheese and bolognia. Then create an alias namespace called boleese and use it to call print_Sandwich. 
 
 
 
