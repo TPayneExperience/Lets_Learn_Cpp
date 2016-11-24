@@ -1,4 +1,21 @@
 
+1) Create const variables for an int, char, string, and double
+
+2) Create const pointers for an int, char, double (so that addess cannot change)
+
+3) Create an inline function that takes in a const int reference, has a precondition of it being greater than 0 and returns 5 more than that value
+
+4) Create a const int const pointer set to 5
+
+5) Create an inline function that takes in a const string const pointer and has a postcondition that ensures the string is not empty
+
+6) Create constexpr variables for an int, char, string, double
+
+7) Create a function that creates a constexpr variable within it, but does nothing with it
+
+8) Create a recursive function that removes a letter from a string, then returns the reverse of the string
+
+9) Create overloaded inline functions for subtracting 1, 2 and 3 numbers away from the first number passed in
 
 
 
