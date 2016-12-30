@@ -1,3 +1,0 @@
-﻿  main.cpp
-d:\assets\programming\github\011_functions_const_recursion_overloading\debug_exercises\011_debug_01\main.cpp(13): error C2440: 'initializing': cannot convert from 'const int *' to 'int *'
-  d:\assets\programming\github\011_functions_const_recursion_overloading\debug_exercises\011_debug_01\main.cpp(13): note: Conversion loses qualifiers
