@@ -1,0 +1,29 @@
+1) Create an enum of flowers, then create a switch that prints out which each is.
+
+2) Create an enum of first names with the first being set to a value of 'b'. Then create a variable instance of each.
+
+3) Create an enum class of vegetables and other of breads. 
+
+4) Use "int('a')" to output the ascii values of a through g
+
+5) Create a struct called fighter with an int called health, and another int called strength. Create an instance with values of 100 and 5.
+
+6) Create a struct called Dog, with an int called 'fur' with a default value of 5. then create a string called name. Create an instance, then set it's name to "Stanley"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
