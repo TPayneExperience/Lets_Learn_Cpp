@@ -1,0 +1,7 @@
+1) Create a class for three different vegetables with an int called 'fiber' set to different amounts.
+
+2) Create a class called 'Fighter' with two private double member variables called 'health' and 'attack'. Create a public constructor that sets each to 50. Create a public function called 'print_Info' with void return type and no parameters. Then have it print out the health and attack. Create an instance and test the function.
+
+3) Create a class called 'Unicorn_Spottings' with a single private int called count. Then create three public functions called 'get_Count', 'add_Spottings' and 'remove_Spottings'. Return types and parameters should be appropriate. Create a pointer to a class instance and test/output each function result.
+
+
