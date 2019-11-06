@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-	COUT << 'HAM!';
+	cout << " HAM!";
 	return 0;
 }
 
